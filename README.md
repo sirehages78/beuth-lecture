@@ -2,6 +2,6 @@
 
 this is a better text
 
-This comes form conflictless branch:
+enhancementBranch:
 - commit 1
 - commit 2
